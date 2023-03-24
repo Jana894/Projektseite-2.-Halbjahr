@@ -11,7 +11,9 @@
 <h2 id="kapitel1.2">Idee</h2>
 
 <h2 id="kapitel1.3">Ergebnis</h2>
+
 ![Level 1](Bilder/Endergebnis_Level_1.png "Level 1")
+
 ![Level 2](Bilder/Endergebnis_Level_2.png "Level 2")
 
 <details id="Link"><summary>Erklärung Ergebnis</summary>
