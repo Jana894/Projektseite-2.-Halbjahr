@@ -13,6 +13,7 @@
 Für unser Projekt in diesem Halbjahr haben wir uns mit "Greenfoot" beschäftigt. "Greenfoot" ist ein Programm, bei welchem man mit "Java", einer objektorientierten Programmiersprache, arbeitet. Das Programm und die Programmiersprache wurden primär für Ausbildungszwecke entwickelt und zeichnen sich durch eine einfache Entwicklung zweidimensionaler graphischer Simulationen und Spiele aus. 
 
 <h2 id="kapitel1.2">Idee</h2>
+Die Idee unseres Spiels war ursprünglich etwas Wüstenähnliches beziehungsweise etwas zu programmieren, wo die Wüste eine Rolle spielt und was kein "Jump and Run" Spiel wie im ersten Halbjahr ist. Da wir uns auch erst einmal in ein neues Programm einarbeiten mussten haben wir uns dazu entschieden, ein Kaktus Labyrinth zu gestalten, welches von unserer Figur durchdrungen werden muss. Unser erster Gedanke war ein unendliches Labyrinth zu programmieren, damit wir zusätzlich noch einen anderen Spielaufbau als in unserem ersten Spiel haben.
 
 <h2 id="kapitel1.3">Ergebnis</h2>
 In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wobei das Kamel pro Level 5 Leben hat, die in Form von roten Punkten am rechten, oberen Bildschirmrand angezeigt werden. Sowohl bei Berührung der Kakteen, als auch der Spinnen verliert das Kamel ein Leben. Trifft eine der zufällig erscheinenden Bomben das Kamel, ist das Kamel tot und das Spiel vorbei. Im Anschluss erscheint unser GameOver Bildschirm und das Spiel muss von vorne begonnen werden. 
