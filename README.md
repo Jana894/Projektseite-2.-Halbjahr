@@ -8,7 +8,7 @@
   
 <h2 id="kapitel1.1">Programme</h2>
 
-
+![Logo Greenfoot](Bilder/Greenfoot_Logo.png "Logo Greenfoot")
 
 Für unser Projekt in diesem Halbjahr haben wir uns mit "Greenfoot" beschäftigt. "Greenfoot" ist ein Programm, bei welchem man mit "Java", einer objektorientierten Programmiersprache, arbeitet. Das Programm und die Programmiersprache wurden primär für Ausbildungszwecke entwickelt und zeichnen sich durch eine einfache Entwicklung zweidimensionaler graphischer Simulationen und Spiele aus. 
 
