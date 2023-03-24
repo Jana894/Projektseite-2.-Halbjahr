@@ -8,6 +8,10 @@
   
 <h2 id="kapitel1.1">Programme</h2>
 
+
+
+Für unser Projekt in diesem Halbjahr haben wir uns mit "Greenfoot" beschäftigt. "Greenfoot" ist ein Programm, bei welchem man mit "Java", einer objektorientierten Programmiersprache, arbeitet. Das Programm und die Programmiersprache wurden primär für Ausbildungszwecke entwickelt und zeichnen sich durch eine einfache Entwicklung zweidimensionaler graphischer Simulationen und Spiele aus. 
+
 <h2 id="kapitel1.2">Idee</h2>
 
 <h2 id="kapitel1.3">Ergebnis</h2>
