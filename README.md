@@ -13,11 +13,11 @@
 <h2 id="kapitel1.3">Ergebnis</h2>
 In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wobei das Kamel pro Level 5 Leben hat, die in Form von roten Punkten am rechten, oberen Bildschirmrand angezeigt werden. Sowohl bei Berührung der Kakteen, als auch der Spinnen verliert das Kamel ein Leben. Trifft eine der zufällig erscheinenden Bomben das Kamel, ist das Kamel tot und das Spiel vorbei. Im Anschluss erscheint unser GameOver Bildschirm und das Spiel muss von vorne begonnen werden. 
 
-==Level 1:==
+**Level 1:**
 
 ![Level 1](Bilder/Endergebnis_Level_1.png "Level 1")
 
-Level 2:
+**Level 2:**
 
 ![Level 2](Bilder/Endergebnis_Level_2.png "Level 2")
 
