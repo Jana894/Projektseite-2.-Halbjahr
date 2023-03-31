@@ -57,6 +57,8 @@ Für die Gravitation muss eine Variable mit einem "integer" erstellt werden, dam
   
 <details id="Link"><summary>Erklärung Code TotenKopf</summary>
 
+Im TotenKopf wurde programmiert, dass ein Totenkopfbild in der Größe 600*600 Pixeln in schwarz-weiß entsteht.
+  
 ![TotenKopf](Bilder/Screenshot_Code_TotenKopf.png "TotenKopf")
 </details>
   
