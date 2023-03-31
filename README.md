@@ -47,6 +47,16 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
 
 Für die Tastatursteuerung des Kamels wurden die verschiedenen Richtungen auf die "A", "D", "S" und "W" Tasten aufgeteilt, dabei sorgt die "A" Taste dafür, dass sich das Kamel nach links bewegt, die "D" Taste für eine Bewegung nach rechts, mit der "S" Taste dreht sich das Kamel nach rechts und "W" Taste erfolgt eine Drehung nach links. 
 
+Mit der "void"-Methode "eatFassMitWasser" ist gemeint, dass wenn das Kamel das Fass berührt, eine Verbindung zur SandWorld aufgebaut wird und diese dann den Levelwechsel auslöst.
+  
+Die zwei "void"-Methoden "seeKaktus" und "seeSpinne" haben die geleiche Funktionsweise, nur, dass bei der einen Methode der Kaktus und bei der anderen die Spinne Auslöser des Verbindungsaufbaus zur SandWorld ist, damit diese dann ein LebenVomKamel entfernen kann. 
+  
+Die "void"-Methode "seeBombe" funktioniert ähnlich, wie die Methoden davor, nur beendet die SandWorld das Spiel und der GameOver-Bildschirm erscheint.
+  
+Auch die "void"-Methode "seeKleeblatt" hat die gleiche Funktionsweise mit dem einzigen Unterschied, dass die SandWorld den Ziel-Bildschirm erscheinen lässt.
+  
+Am Ende sind alle "private void"-Methoden in der "public void"-Methode zusammengefasst aufgeschrieben, damit die Verbindung und Kommunikation mit der SandWorld stattfinden kann.
+  
 ![Kamel](Bilder/Screenshot_Code_Kamel.png "Kamel")
 </details>
   
