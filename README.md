@@ -48,6 +48,8 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
 
 **Erklärung Code Bombe**
 
+Für die Gravitation muss eine Variable mit einem "integer" erstellt werden, damit man in der "void"-Methode die Fallgeschwindigkeit immer um 1 erhöhen kann, wodurch das Fallen der Bombe realistischer aussieht. Damit sich die Bomben am Ende nicht alle am unteren Bildschirmrand sammeln, musste noch programmiert werden, dass die Bomben verschwinden, sobald sie den Rand des "Spielfeldes" berühren.
+
 ![Bombe](Bilder/Screenshot_Code_Bombe.png "Bombe")
 
 **Erklärung Code TotenKopf**
