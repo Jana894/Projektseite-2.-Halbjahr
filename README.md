@@ -32,6 +32,8 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
 
 <details id="Link"><summary>Erklärung Ergebnis</summary>
 
+<details id="Link"><summary>Erklärung Code SandWorld</summary>
+  
 **Erklärung Code SandWorld**
 
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_1.png "SandWorld")
@@ -41,24 +43,37 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_3.png "SandWorld")
 
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_4.png "SandWorld")
-
+</details>
+  
+<details id="Link"><summary>Erklärung Code Kamel</summary>
+  
 **Erklärung Code Kamel**
 
 ![Kamel](Bilder/Screenshot_Code_Kamel.png "Kamel")
-
+</details>
+  
+<details id="Link"><summary>Erklärung Code Bombe</summary>
+  
 **Erklärung Code Bombe**
 
 Für die Gravitation muss eine Variable mit einem "integer" erstellt werden, damit man in der "void"-Methode die Fallgeschwindigkeit immer um 1 erhöhen kann, wodurch das Fallen der Bombe realistischer aussieht. Damit sich die Bomben am Ende nicht alle am unteren Bildschirmrand sammeln, musste noch programmiert werden, dass die Bomben verschwinden, sobald sie den Rand des "Spielfeldes" berühren.
 
 ![Bombe](Bilder/Screenshot_Code_Bombe.png "Bombe")
-
+</details>
+  
+<details id="Link"><summary>Erklärung Code TotenKopf</summary>
+  
 **Erklärung Code TotenKopf**
 
 ![TotenKopf](Bilder/Screenshot_Code_TotenKopf.png "TotenKopf")
-
+</details>
+  
+<details id="Link"><summary>Erklärung Code Spinne</summary>
+  
 **Erklärung Code Spinne**
 
 ![Spinne](Bilder/Screenshot_Code_Spinne.png "Spinne")
+</details>
 </details>
 
 <h2 id="kapitel1.5">Fazit</h2>
