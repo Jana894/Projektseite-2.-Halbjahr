@@ -34,6 +34,10 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
 
 <details id="Link"><summary>Erklärung Code SandWorld</summary>
 
+Zuerst wurde die Größe der SandWorld mit 500*600 Pixeln festgelegt.
+  
+Die "void"-Methode "act" sorgt dafür, dass die Bombe zufällig  bei x=250 und y=10 erscheint, wenn die zufällige Zahl von 0-500 (integer "timerRate") zwischen 0 und 80 (integer "bombProbability") liegt.
+  
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_1.png "SandWorld")
 
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_2.png "SandWorld")
