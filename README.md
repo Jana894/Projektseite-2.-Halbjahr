@@ -45,6 +45,8 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
   
 <details id="Link"><summary>Erklärung Code Kamel</summary>
 
+Für die Tastatursteuerung des Kamels wurden die verschiedenen Richtungen auf die "A", "D", "S" und "W" Tasten aufgeteilt, dabei sorgt die "A" Taste dafür, dass sich das Kamel nach links bewegt, die "D" Taste für eine Bewegung nach rechts, mit der "S" Taste dreht sich das Kamel nach rechts und "W" Taste erfolgt eine Drehung nach links. 
+
 ![Kamel](Bilder/Screenshot_Code_Kamel.png "Kamel")
 </details>
   
