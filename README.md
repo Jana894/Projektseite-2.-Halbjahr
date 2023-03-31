@@ -44,7 +44,7 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
 
 **Erklärung Code Bombe**
 
-![Bombe](Bilder/Screenshot_Bombe.png "Bombe")
+![Bombe](Bilder/Screenshot_Code_Bombe.png "Bombe")
 
 **Erklärung Code TotenKopf**
 
