@@ -28,6 +28,31 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
 
 <details id="Link"><summary>Erklärung Ergebnis</summary>
 
+**Erklärung Code SandWorld**
+
+![SandWorld](Bilder/Screenshot_Code_SandWorld_1.png "SandWorld")
+
+![SandWorld](Bilder/Screenshot_Code_SandWorld_2.png "SandWorld")
+
+![SandWorld](Bilder/Screenshot_Code_SandWorld_3.png "SandWorld")
+
+![SandWorld](Bilder/Screenshot_Code_SandWorld_4.png "SandWorld")
+
+**Erklärung Code Kamel**
+
+![Kamel](Bilder/Screenshot_Code_Kamel.png "Kamel")
+
+**Erklärung Code Bombe**
+
+![Bombe](Bilder/Screenshot_Bombe.png "Bombe")
+
+**Erklärung Code TotenKopf**
+
+![TotenKopf](Bilder/Screenshot_Code_TotenKopf.png "TotenKopf")
+
+**Erklärung Code Spinne**
+
+![Spinne](Bilder/Screenshot_Code_Spinne.png "Spinne")
 </details>
 
 <h2 id="kapitel1.4">Fazit</h2>
