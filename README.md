@@ -62,6 +62,8 @@ Für die Gravitation muss eine Variable mit einem "integer" erstellt werden, dam
   
 <details id="Link"><summary>Erklärung Code Spinne</summary>
 
+Für die Spinne wurde programmiert, dass sie sich um 60° dreht, sobald sie den Rand des "Spielfeldes" berührt und sich ansonsten immer um 1 Längeneinheit bewegt.
+  
 ![Spinne](Bilder/Screenshot_Code_Spinne.png "Spinne")
 </details>
 </details>
