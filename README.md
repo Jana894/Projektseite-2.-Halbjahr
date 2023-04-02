@@ -42,12 +42,22 @@ Die "void"-Methode "gameOver" lässt den GameOver-Bildschirm erscheinen und häl
 
 Die "void"-Methode "imZiel" lässt den Ziel-Bildschirm erscheinen und hält ebenfalls das Programm an. Auch hier funktioniert die Methode durch Kommunikation zwischen SandWorld und Kamel.
 
-Für die "void"-Methode "erschaffeLebenVomKamel" musste eine ArrayList erstellt werden, die 5 Leben (integer ) in dem Spielfeld erscheinen lässt, die im Abstand von 35 Pixeln zueinander positioniert sind.
+Für die "void"-Methode "erschaffeLebenVomKamel" musste eine ArrayList erstellt werden, die 5 Leben (integer "anzahlKamelLeben") in dem Spielfeld erscheinen lässt, die im Abstand von 35 Pixeln zueinander positioniert sind.
+  
+Die "void"-Methode "entferneLeben" greift auf die, in der Methode "erschaffeLebenVomKamel" erstellte ArrayList, zurück und entfernt solange ein LebenVomKamel bis keine mehr vorhanden sind, tritt dieser Fall ein, erscheint der GameOver-Bildschirm.
+  
+Die "void"-Methode "wechselLevel" ist ebenfalls auf die Kommunikation mit dem Kamel angewiesen, da diese ausgelöst wird, wenn das Kamel die "void"-Methode "eatFassMitWasser" aufruft, denn nur dann wird von der SandWorld angewiesen, dass das zweite Level erstellt werden soll.
+  
+Die "void"-Methode "erstelleLevel1" fasst die einzelnen Positionierungen der Objekte, die für das erste Level relevant sind, zusammen, damit der Code insgesamt übersichtlicher ist.
+  
+Ebenso ist die "void"-Methode "erstelleLevel2" für die Positionierung der Objekte aus dem zweiten Level wichtig, wobei bei dieser Methode wichtig ist, dass zuerst alle LebenVomKamel aus der ArrayList gelöscht werden und dann erst alle Objekte des ersten Levels aus der SandWorld entfernt werden, woraufhin dann das zweite Level erstellt werden kann.
   
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_1.png "SandWorld")
 
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_2.png "SandWorld")
 
+Mit folgenden "void"-Methoden werden die Positionen der einzelnen Objekte der beiden Level festgelegt. Bei den Methoden wo eine 2 hinter dem Methodennamen steht sind Objekte des zweiten Levels gemeint (zum Beispiel "erschaffeKakteen2"). Die LebenVomKamel ändern ihre Position in den beiden Leveln nicht, genauso wie die Spinnen, weshalb diese Objekte ohne eine 2 hinter ihrer Bezeichnung stehen bleiben. Dadurch, dass das Kleeblatt erst im zweiten Level auftauch bekommt auch dieses keine 2 zugewiesen. 
+  
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_3.png "SandWorld")
 
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_4.png "SandWorld")
