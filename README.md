@@ -37,6 +37,12 @@ In unserem Spiel muss sich ein Kamel durch ein Labyrinth aus Kakteen bewegen, wo
 Zuerst wurde die Größe der SandWorld mit 500*600 Pixeln festgelegt.
   
 Die "void"-Methode "act" sorgt dafür, dass die Bombe zufällig  bei x=250 und y=10 erscheint, wenn die zufällige Zahl von 0-500 (integer "timerRate") zwischen 0 und 80 (integer "bombProbability") liegt.
+
+Die "void"-Methode "gameOver" lässt den GameOver-Bildschirm erscheinen und hält das Programm im selben Zuge an. Hierbei findet eine Kommunikation zwischen SandWorld und Kamel statt.
+
+Die "void"-Methode "imZiel" lässt den Ziel-Bildschirm erscheinen und hält ebenfalls das Programm an. Auch hier funktioniert die Methode durch Kommunikation zwischen SandWorld und Kamel.
+
+Für die "void"-Methode "erschaffeLebenVomKamel" musste eine ArrayList erstellt werden, die 5 Leben (integer ) in dem Spielfeld erscheinen lässt, die im Abstand von 35 Pixeln zueinander positioniert sind.
   
 ![SandWorld](Bilder/Screenshot_Code_SandWorld_1.png "SandWorld")
 
